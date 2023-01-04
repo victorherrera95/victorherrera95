@@ -107,9 +107,6 @@ Do you want to work together?
 <a href="https://www.linkedin.com/in/victor-alejandro-herrera-contreras/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-alejandro-herrera-contreras/" height="30" width="40" />
 </a>
-<a href="herreracontrerasva@gmail.com" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="herreracontrerasva@gmail.com" height="30" width="40" />
-</a>
 </p>
 
 
