@@ -84,7 +84,7 @@ I worked with the Data management & Front-end Developer.
 Tech Utils:
 🎮 Database: MongoDB
 🎮 Back-End: NodeJs, Express, Mongoose, Auth0
-🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
+🎮 Front-End: React JS, Redux, Tailwind, Material-UI, HTML
 🎮 Additional Libraries: 
 ✔ Chart.js (Real-time graphs)
 ✔ Stripe (Payment gateway)
