@@ -46,54 +46,7 @@
 👇
 👇
 👇   
-____________________
-## Dog's SPA
 
-~~~
-📌 Henry Bootcamp Individual Project 
-
-I worked as a Full-Stack Developer
-Design and develop a web page about dog's including:
-
-◉ Search by name
-◉ Filtering, Sorting and Pagination
-◉ Option to create a breed dog
-
-Tech Utils: 
-◉ Javascript
-◉ ReactJS
-◉ Redux
-◉ Plain CSS 
-◉ NodeJS
-◉ Express
-◉ PostgreSQL
-◉ Sequelize
- 
-
-~~~
-____________________
-## ScaneaMe E-commerce
-
-~~~
-📌 An e-commerce that gives a new meaning to social networks with a qr code for each new customer
-
-Final group project of Bootcamp Henry. 
-
-I worked with the Data management & Front-end Developer. 
-
-Tech Utils:
-🎮 Database: MongoDB
-🎮 Back-End: NodeJs, Express, Mongoose, Auth0
-🎮 Front-End: React JS, Redux, Tailwind, Material-UI, HTML
-🎮 Additional Libraries: 
-✔ Chart.js (Real-time graphs)
-✔ Stripe (Payment gateway)
-✔ Cloudinary (Upload profile picture)
-✔ Email.js (Sending of mails)
-
-~~~
-
-___________________________________________
 
 
 
