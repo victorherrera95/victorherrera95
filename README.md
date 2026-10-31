@@ -13,10 +13,10 @@
 </div>  
  <br/>
 
-# <div align="center">I'm Victor Herrera, Full-stack developer 👨‍💻 🚀</div>  
+# <div align="center">I'm Victor Herrera, Software developer 👨‍💻 🚀</div>  
   <br/>
   
-  Hi everyone! I'm Victor Herrera, full stack developer with a passion for creating intuitive and user-friendly web and mobile applications. With over 1 year of experience in the industry, making own and academic projects <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
+  Hi everyone! I'm Victor Herrera, software developer with a passion for creating intuitive and user-friendly applications. With over 3 year of experience in the industry, making own and academic projects <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
   
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
